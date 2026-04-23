@@ -5,7 +5,6 @@
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square&logo=cplusplus)
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey?style=flat-square)
 ![Build](https://img.shields.io/badge/build-make-green?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-orange?style=flat-square)
 
 ---
 
