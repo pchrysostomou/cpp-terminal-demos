@@ -1,0 +1,10 @@
+# Compiled binaries
+raytracer
+fireworks/fireworks
+space_invaders/invaders
+
+# Object files
+*.o
+
+# macOS
+.DS_Store
